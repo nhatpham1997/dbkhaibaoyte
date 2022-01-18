@@ -1,0 +1,58 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "email": "duy124678@gmail.com",
+            "password": "12345678",
+            "full_name": "Nguyễn Văn Duy",
+            "year_of_birth": "15/06/1999",
+            "citizen_identification": "01234567890", 
+            "gender": "Nam",
+            "province": "Hà Nội",
+            "district": "Đan Phượng",
+            "Ward": "Liên Hà",
+            "phone": "0987654321",
+            "create_date": "10/10/2001"
+        }
+    ],
+    "admin": [
+        {
+            "id": 1,
+            "email": "duy124678@gmail.com",
+            "password": "12345678",
+            "full_name": "Nguyễn Văn Duy",
+            "year_of_birth": "15/06/1999",
+            "citizen_identification": "01234567890", 
+            "gender": "Nam",
+            "province": "Hà Nội",
+            "district": "Đan Phượng",
+            "Ward": "Liên Hà",
+            "phone": "0987654321",
+            "create_date": "10/10/2001"
+        }
+    ],
+    "moving_declaration": [
+        {
+            "id": 1,
+            "user_id": 1,
+            "time_created": "01/01/2022",
+            "province": "Hà Nội",
+            "district": "Đan Phượng",
+            "nationality": "Việt Nam", 
+            "Ward": "Liên Hà"
+        }
+    ],
+    "moving_register": [
+        {
+            "id": 1,
+            "user_id": 1,
+            "time_created": "01/01/2022",
+            "province": "Hà Nội",
+            "district": "Đan Phượng",
+            "nationality": "Việt Nam",
+            "Ward": "Liên Hà",
+            "status": "true",
+            "confirm": "null"
+        }
+    ]
+}
