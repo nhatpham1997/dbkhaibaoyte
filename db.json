@@ -1,58 +1,86 @@
 {
-    "user": [
-        {
-            "id": 1,
-            "email": "duy124678@gmail.com",
-            "password": "12345678",
-            "full_name": "Nguyễn Văn Duy",
-            "year_of_birth": "15/06/1999",
-            "citizen_identification": "01234567890", 
-            "gender": "Nam",
-            "province": "Hà Nội",
-            "district": "Đan Phượng",
-            "Ward": "Liên Hà",
-            "phone": "0987654321",
-            "create_date": "10/10/2001"
-        }
-    ],
-    "admin": [
-        {
-            "id": 1,
-            "email": "duy124678@gmail.com",
-            "password": "12345678",
-            "full_name": "Nguyễn Văn Duy",
-            "year_of_birth": "15/06/1999",
-            "citizen_identification": "01234567890", 
-            "gender": "Nam",
-            "province": "Hà Nội",
-            "district": "Đan Phượng",
-            "Ward": "Liên Hà",
-            "phone": "0987654321",
-            "create_date": "10/10/2001"
-        }
-    ],
-    "moving_declaration": [
-        {
-            "id": 1,
-            "user_id": 1,
-            "time_created": "01/01/2022",
-            "province": "Hà Nội",
-            "district": "Đan Phượng",
-            "nationality": "Việt Nam", 
-            "Ward": "Liên Hà"
-        }
-    ],
-    "moving_register": [
-        {
-            "id": 1,
-            "user_id": 1,
-            "time_created": "01/01/2022",
-            "province": "Hà Nội",
-            "district": "Đan Phượng",
-            "nationality": "Việt Nam",
-            "Ward": "Liên Hà",
-            "status": "true",
-            "confirm": "null"
-        }
-    ]
+  "user": [
+    {
+      "email": "dinhdn@rikkei.com",
+      "password": "1234",
+      "fullName": "Đinh Ngọc Định",
+      "yearOfBirth": "1997",
+      "citizenIdentification": "123456789",
+      "gender": "1",
+      "province": "1",
+      "district": "8",
+      "ward": "316",
+      "phone ": "0550111123",
+      "createdDate": "10/10/2021",
+      "id": 1
+    },
+    {
+      "email": "tiendq@rikkei.com",
+      "password": "123",
+      "fullName": "Đặng Quốc Tiến",
+      "yearOfBirth": "1999",
+      "citizenIdentification": "011223456",
+      "gender": "1",
+      "province": "1",
+      "district": "9",
+      "ward": "361",
+      "phone ": "0123456789",
+      "createdDate": "05/10/2021",
+      "id": 2
+    }
+  ],
+  "admin": [
+    {
+      "email": "duy123456@rikkei.com",
+      "password": "123",
+      "fullName": "Nguyễn Văn Duy",
+      "yearOfBirth": "1999",
+      "citizenIdentification": "01234567890",
+      "gender": "1",
+      "province": "1",
+      "district": "273",
+      "ward": "9802",
+      "phone ": "0123456789",
+      "createdDate": "05/10/2021",
+      "id": 1
+    }
+  ],
+  "moving_declaration": [
+    {
+      "userId": "1",
+      "time": "01/01/2021 08:50:00",
+      "province": "1",
+      "district": "273",
+      "ward": "9802",
+      "id": 1
+    },
+    {
+      "userId": "1",
+      "time": "02/01/2021 19:50:00",
+      "province": "1",
+      "district": "9",
+      "ward": "346",
+      "id": 2
+    },
+    {
+      "userId": "2",
+      "time": "01/01/2021 19:50:00",
+      "province": "1",
+      "district": "9",
+      "ward": "349",
+      "id": 3
+    }
+  ],
+  "moving_register": [
+    {
+      "userId": "2",
+      "time": "10/10/2022",
+      "province": "1",
+      "district": "9",
+      "ward": "349",
+      "status": "true",
+      "confirm": "",
+      "id": 1
+    }
+  ]
 }
