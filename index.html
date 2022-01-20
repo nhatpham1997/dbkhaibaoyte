@@ -9,7 +9,13 @@
 <body>
     
     <script>
-        fetch("http://localhost:3000/medical_declaration")
+        fetch("https://test-api-b4d35-default-rtdb.asia-southeast1.firebasedatabase.app/admin/1.json", {
+            method: 'DELETE',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            
+        })
         .then(response => response.json())
         .then(data => console.log(data))
     </script>

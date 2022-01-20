@@ -10,7 +10,7 @@
       "province": "1",
       "district": "8",
       "ward": "316",
-      "phone ": "0550111123",
+      "phone": "0550111123",
       "createdDate": "10/10/2021",
       "id": 1
     },
@@ -24,7 +24,7 @@
       "province": "1",
       "district": "9",
       "ward": "361",
-      "phone ": "0123456789",
+      "phone": "0123456789",
       "createdDate": "05/10/2021",
       "id": 2
     }
@@ -40,7 +40,7 @@
       "province": "1",
       "district": "273",
       "ward": "9802",
-      "phone ": "0123456789",
+      "phone": "0123456789",
       "createdDate": "05/10/2021",
       "id": 1
     }
