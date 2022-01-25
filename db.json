@@ -112,7 +112,13 @@
       "ward": 346,
       "specificAddress": "50 Hoàng Văn Thái",
       "status": 0,
-      "id": 1
+      "id": 1,
+      "provinceName": "Tỉnh Lào Cai",
+      "districtName": "Huyện Bát Xát",
+      "wardName": "Xã Bản Qua",
+      "provinceResidenceName": "Thành phố Hà Nội",
+      "districtResidenceName": "Quận Thanh Xuân",
+      "wardResidenceName": "Phường Hạ Đình"
     }
   ]
 }
