@@ -5,7 +5,7 @@
       "password": "12345678",
       "fullName": "Đinh Ngọc Định",
       "yearOfBirth": 1997,
-      "citizenIdentification": "1234567890",
+      "citizenIdentification": "123456789",
       "gender": 1,
       "province": 1,
       "provinceName": "Thành phố Hà Nội",
@@ -13,7 +13,7 @@
       "ward": 316,
       "specificAddress": "Số 80 Kim Giang",
       "phone": "0550111123",
-      "createdDate": "10/10/2021",
+      "createdDate": "10/11/2021",
       "id": 1
     },
     {
@@ -126,7 +126,7 @@
       "province": 1,
       "district": 9,
       "ward": 346,
-      "specificAddress": "50 Hoàng Văn Thái",
+      "specificAddress": "150 Hoàng Văn Thái",
       "status": 0,
       "id": 1,
       "provinceName": "Tỉnh Lào Cai",
